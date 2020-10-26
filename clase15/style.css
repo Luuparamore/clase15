@@ -1,0 +1,155 @@
+h3,
+h2 {
+    color: white;
+}
+
+.encabezado1 {
+    color: rgb(133, 130, 130);
+}
+
+#encabezado2 {
+    color: black;
+}
+
+body {
+    background-color: black;
+
+}
+
+p {
+    color: white;
+}
+
+ul li {
+    color: black;
+}
+
+footer {
+    color: white;
+}
+
+p,
+h3,
+h1,
+h2 {
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 5px;
+    font-size: 26px;
+    line-height: 26px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.gris {
+    color: #61666C;
+}
+
+.turquesa {
+    color: #01BBBA;
+}
+
+.amarillo {
+    color: #EDC542;
+}
+
+.amarillo,
+.turquesa,
+.gris {
+    letter-spacing: 5px;
+    font-size: 26px;
+    line-height: 15px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.titulo {
+    padding: 1px 10px 60px 20px;
+}
+
+.titulo-2 {
+    padding: 70px 10px 70px 20px;
+}
+
+.titulo,
+.titulo-2 {
+    background-color: #FF000A;
+    text-transform: uppercase;
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 5px;
+}
+
+.imagen-center {
+    text-align: center;
+    margin-left: 17px;
+}
+
+.logo {
+    position: relative;
+    top: 30px;
+}
+
+.logo-2 {
+    position: relative;
+    left: 250px;
+    bottom: 160px;
+    right: 0;
+    height: 100px;
+}
+
+.games-name {
+    color: white;
+    letter-spacing: 5px;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    font-family: 'Roboto Mono', monospace;
+    margin-left: 37px;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.texto-comun {
+    color: white;
+    font-size: 15px;
+    line-height: 20px;
+    text-transform: uppercase;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.info-imagen {
+    text-align: center;
+    margin-left: 200px;
+}
+
+.menu-container, .menu {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    
+}
+
+.menu a:hover {
+    text-decoration: none;
+}
+
+.best-games,
+.nintendo-switch-lite,
+.online-services,
+.nintendo-switch {
+    margin-right: 30px;
+    margin-left: 30px;
+    
+}
+
+
+
+.imagen-switch-2 {
+    margin-left: 100px;
+}
